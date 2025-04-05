@@ -1,0 +1,40 @@
+a{
+	background-color: gold;
+	color: blue;
+	padding: 8px;
+	border: solid tomato 2px;
+	margin: 32px;
+
+	
+
+
+}
+
+h1{
+	
+	border: 2px solid gray;
+	font-size: 30px;
+
+}
+
+p{
+	background-color: snow;
+	
+
+}
+.heading1{
+	background-color: rgb(500, 950, 900);
+}
+
+table, th, td{
+	border: 1px solid black;
+	border-collapse: collapse;
+
+
+}
+th, td{
+	background-color: ghostwhite;
+	border-color: tomato;
+	padding: 15px;
+}
+
